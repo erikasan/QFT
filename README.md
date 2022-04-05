@@ -1,2 +1,2 @@
-# FYS4170
+# Quantum Field Theory 
 holy #?%!
